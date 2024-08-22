@@ -78,7 +78,7 @@
   width: max-content;
   height: max-content;
   cursor: pointer;
-  background: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
+  background-image: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
   font-family: "Inter";
   border-radius: 4px;
 }
